@@ -1,0 +1,12 @@
+{
+    "name": "joyas-api",
+    "version": "1.0.0",
+    "description": "API REST para la tienda de joyas My Precious Spa",
+    "main": "index.js",
+    "scripts": {
+    "start": "node index.js"
+    },
+    "dependencies": {
+    "express": "^4.17.1"
+    }
+}
